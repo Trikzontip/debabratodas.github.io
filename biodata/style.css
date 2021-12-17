@@ -1,0 +1,37 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url(bg.jpg);
+    color: #fff;
+}
+
+.navbar{
+ display: flex;
+ background: #111;
+ font-size: 20px;
+ padding: 15px;
+}
+.navleft{
+    width: 45%;
+    color: #fff;
+    font-weight: 800;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+}
+.area{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background: #444;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 35px;
+}
+.area1{
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+h4{
+    margin-left: 5%;
+}
